@@ -25,7 +25,7 @@ git clone https://github.com/yourusername/recipe-app-api.git
 docker build .
 ```
 
-3. Run the Docker container
+3.  Run the Docker container
 
 ```sh
 docker-compose up
